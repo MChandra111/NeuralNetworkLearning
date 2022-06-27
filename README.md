@@ -18,6 +18,8 @@ The wonderful wonderful ReLU function!
 # ReLU (Rectified Linear Activation Function)
 (I'm not sure why it's ReLU and not ReLA or ReLAF but here we are - Some people also call it ReL, so maybe the U stands for "U've been pranked" or something?)
 
+Update: Neurons that use it are called Rectified Linear Units, mystery solved
+
 This thing was brought to the limelight in 2009-2011, a stark difference from tanh and sigmoid that were around for decades prior.
 
 It's a linear-*esque* function, but still complex in a way that allows deep learning to be effective. It's an incredibly simple function - 
