@@ -1,4 +1,4 @@
-Sigmoid and Tanh and what they are/were used for:
+# Sigmoid and Tanh and what they are/were used for:
 https://machinelearningmastery.com/rectified-linear-activation-function-for-deep-learning-neural-networks/
 
 It seems Sigmoid and Tanh functions used to be used a lot before big hunky GPUs(Graphics Processing Unit) came along and changed everything up.
@@ -9,7 +9,7 @@ This is called the vanishing gradient problem. This is largely because they are 
 
 The wonderful wonderful ReLU function!
 
-ReLU (Rectified Linear Activation Function)
+# ReLU (Rectified Linear Activation Function)
 (I'm not sure why it's ReLU and not ReLA or ReLAF but here we are - Some people also call it ReL, so maybe the U stands for "U've been pranked" or something?)
 
 Update: Neurons that use it are called Rectified Linear Units, mystery solved
