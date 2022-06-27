@@ -1,4 +1,4 @@
-# NeuralNetworkLearning
+# Neural Network Learning
 My journey to building basic neural networks
 
 # Sigmoid and Tanh and what they are/were used for:
