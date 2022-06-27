@@ -37,4 +37,4 @@ else:
   return 0
 ```
 It's half linear and half non-linear so it's referred to as a "peacewise linear function" or a "hitch" function. Another thing about it is that it can output
-a "true zero" value, whereas Sigmoid and Tanh tend to approximate values close to 0.
+a "true zero" value, whereas Sigmoid and Tanh approximate values close to 0.
